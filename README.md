@@ -1,5 +1,3 @@
-Fastboot Works
-Able to Use internal storage
-Bugs
-Inform me in telegram
+telegram
 @Dumbdragon
+need some fixing 
