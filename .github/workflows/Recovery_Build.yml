@@ -20,11 +20,11 @@ on:
       DEVICE_TREE:
         description: 'OrangeFox Device Tree'
         required: true
-        default: 'https://github.com/Badmaneers/twrp_rmx3430_rui4.git'
+        default: 'https://github.com/Badmaneers/custom-recovery_rmx3430_rui4.git'
       DEVICE_TREE_BRANCH:
         description: 'ofox'
         required: true
-        default: 'android-12.1'
+        default: 'ofox'
       DEVICE_PATH:
         description: 'Specify your Device Path'
         required: true
