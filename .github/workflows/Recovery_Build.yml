@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/Badmaneers/twrp_rmx3430_rui4'
+        default: 'https://github.com/Badmaneers/custom-recovery_rmx3430_rui4'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'master'
+        default: 'twrp'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
